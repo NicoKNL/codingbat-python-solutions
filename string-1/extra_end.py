@@ -1,2 +1,2 @@
 def extra_end(str):
-  return str[-2:] * 3
+    return str[-2:] * 3

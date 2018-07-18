@@ -1,2 +1,2 @@
 def array_count9(nums):
-  return nums.count(9)
+    return nums.count(9)
